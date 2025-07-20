@@ -2,7 +2,7 @@
 
 Juinor Cloud Engineer (AWS & DevOps) @ Zustpe Technologies Private Limited 
 
-- 🔭 Here's my [portfolio](https://dkarthikeyan.netlify.app/)                                                 
+- 🔭 Here's my [portfolio](https://karthikeyan-d.netlify.app/)                                                 
 - 🌱 I’m currently learning DevOps and Integrating to code deployment with AWS cloud.
 - Engineeing at Meenakshi College of Engineering
 - ⚡ Fun fact: I am a cReAtOr.
